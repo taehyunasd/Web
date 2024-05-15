@@ -12,8 +12,9 @@ Web Programming Team Project
 * docs: 문서 수정
 
 ## Branch Name
-"[Label] 요약 내용" 형식으로 작성    
-ex) [feat] main 화면 구현
+"Label/요약 내용" 형식으로 작성
+띄어쓰기가 허용 안되므로 '-'를 사용
+ex) feat/main-화면-구현
 
 ## Branch Merge
 만든 브랜치는 꼭!! develop 브랜치에 머지
